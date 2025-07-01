@@ -31,7 +31,7 @@ conda activate openmmlab
 conda install pytorch torchvision -c pytorch
 
 #Step 3. MMDetection Installation
-#Install MMCV using MIM. (please use the old version v1.7.0 of mmcv-full)
+#Install MMCV using MIM. (please use the old version 1.7.0 of mmcv-full)
 pip install -U openmim  #v0.3.3
 mim install mmcv-full  # v1.7.0
 #Install MMDetection
