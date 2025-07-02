@@ -35,8 +35,7 @@ conda install pytorch torchvision -c pytorch
 pip install -U openmim  # v0.3.3
 mim install mmcv-full  # v1.7.0
 #Install MMDetection
-cd VSF-RCNN
-pip install -v -e .    
+pip install -v -e .    # In the main directory
 
 # Step 4. install Shift3D
 cd external/Shift3D
