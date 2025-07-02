@@ -45,7 +45,7 @@ Please refer to the [mmdetection official guidence](https://github.com/open-mmla
 
 ### 2.Dataset
 
-You can preview the GOD-Video Dataset with [NJU Box](https://box.nju.edu.cn/d/654f74926166482fa569/) and download it from [dataset pages](https://calayzhou.github.io/2022/05/04/Dataset/). 
+You can apply for the GOD-Video dataset download link from [dataset pages](https://calayzhou.github.io/2022/05/04/Dataset/). 
 
 ```bash
 |-VSF-RCNN
